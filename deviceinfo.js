@@ -40,6 +40,14 @@ const devicesWithNotch = [
   },
   {
     brand: 'Huawei',
+    model: 'EML-L29',
+  },
+  {
+    brand: 'Huawei',
+    model: 'EML-L09',
+  },
+  {
+    brand: 'Huawei',
     model: 'ANE-LX1',
   },
   {
